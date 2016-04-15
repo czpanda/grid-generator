@@ -1,2 +1,2 @@
 # grid-generator
-Photoshop grid generator only in clientside Javascript
+Photoshop grid generator written only in clientside Javascript
